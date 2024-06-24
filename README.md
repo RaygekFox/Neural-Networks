@@ -1,2 +1,2 @@
 # petprojects
-Stuff I made
+Neural networks made from scratch
